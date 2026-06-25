@@ -1,16 +1,21 @@
-## Hi there 👋
+ Olá, eu sou Wilkison 👋
 
-<!--
-**WilkisonOliveira/WilkisonOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+🚀 Criador do WyxSync
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 C# / ASP.NET Core
+🔹 React
+🔹 PostgreSQL
+🔹 APIs REST
+🔹 Docker
+
+Atualmente cursando Análise e Desenvolvimento de Sistemas.
+
+## Projetos ##
+
+# WyxSync
+Plataforma fitness com IA desenvolvida com React + ASP.NET Core.
+
+## ProductClientHub
+API REST para gerenciamento de clientes e produtos.
