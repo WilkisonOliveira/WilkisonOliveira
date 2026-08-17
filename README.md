@@ -159,12 +159,6 @@ API REST desenvolvida em **ASP.NET Core** para gerenciamento de clientes e produ
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilkisonOliveira&hide_border=true&bg_color=0D1117&color=00C9A7&line=6C63FF&point=6C63FF&area=true&area_color=6C63FF&hide_title=true" width="95%" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=WilkisonOliveira&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
@@ -180,8 +174,6 @@ API REST desenvolvida em **ASP.NET Core** para gerenciamento de clientes e produ
 </picture>
 
 </div>
-
-> A animação acima é gerada automaticamente pelo workflow `.github/workflows/snake.yml` — veja as instruções de instalação enviadas junto com este arquivo.
 
 <br/>
 
