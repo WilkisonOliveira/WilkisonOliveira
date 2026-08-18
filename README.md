@@ -66,15 +66,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Centro Universit
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilkisonOliveira&repo=wyxsync-web&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7&text_color=c9d1d9" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilkisonOliveira&repo=resolvia&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
 ### 🏢 Nivvo — SaaS multi-tenant de gestão de condomínios
 Plataforma **multi-tenant** com três painéis conectados em tempo real ao mesmo banco: **Portaria** (visitantes/encomendas), **Administração** (financeiro, unidades, usuários) e **Portal do Morador** (autorização de visitantes, boletos, reservas, avisos). **Em produção**, com um condomínio piloto real ("Belo Vale") usando o sistema no dia a dia.
 
@@ -150,16 +141,7 @@ API REST desenvolvida em **ASP.NET Core** para gerenciamento de clientes e produ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WilkisonOliveira&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=WilkisonOliveira&hide_border=true&theme=dark&background=0D1117&ring=6C63FF&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkisonOliveira&layout=donut-vertical&hide_border=true&theme=dark&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=WilkisonOliveira&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
