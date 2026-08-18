@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Wilkison%20Oliveira&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Suporte%20de%20TI%20%26%20Infraestrutura&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Wilkison%20Oliveira&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Suporte%20de%20TI%20e%20Infraestrutura&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/WilkisonOliveira">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Wilkison+%F0%9F%91%8B;Desenvolvedor+Full+Stack+.NET+%2B+React+%2B+Next.js;Criador+do+Nivvo%2C+WyxSync+e+Resolvia;3+anos+de+experi%C3%AAncia+em+Suporte+de+TI+%26+Redes;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
