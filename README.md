@@ -141,12 +141,6 @@ API REST desenvolvida em **ASP.NET Core** para gerenciamento de clientes e produ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=WilkisonOliveira&hide_border=true&theme=dark&background=0D1117&ring=6C63FF&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-</div>
-
-<div align="center">
-
 ### 🐍 Contribuições recentes
 
 <picture>
