@@ -1,10 +1,12 @@
-# Wilkison Oliveira
+<div align="center">
 
-Desenvolvedor Full Stack - C#, .NET, Node.js, React, Next.js, TypeScript, PostgreSQL, Docker
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=200&section=header&text=Wilkison%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20-%20C%23%2C%20.NET%2C%20Node.js%2C%20React%2C%20Next.js%2C%20TypeScript%2C%20PostgreSQL%2C%20Docker&descAlignY=50&descSize=13" width="100%"/>
 
 Juiz de Fora, MG · wilkisonoliveira0@gmail.com · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira) · [GitHub](https://github.com/WilkisonOliveira)
 
 Disponível para novas oportunidades como desenvolvedor Full Stack.
+
+</div>
 
 ---
 
