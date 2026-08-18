@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack - C#, .NET, Node.js, React, Next.js, TypeScript, PostgreSQL, Docker
 
-Juiz de Fora, MG · wilkisonoliveira0@gmail.com · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira) · [GitHub](https://github.com/WilkisonOliveira)
+Juiz de Fora, MG · wilkisonoliveira0@gmail.com · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira)
 
 Disponível para novas oportunidades como desenvolvedor Full Stack.
 
