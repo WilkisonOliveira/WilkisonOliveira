@@ -16,11 +16,11 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (Centro Universitári
 
 ## Stack
 
-**Backend** — C#, .NET, Node.js, TypeScript, JavaScript
-**Frontend** — React, Next.js, HTML, CSS, Tailwind
-**Dados** — PostgreSQL, MySQL, Prisma, Supabase
-**DevOps & Cloud** — Docker, Git, GitHub Actions, AWS, Railway
-**Infraestrutura & Redes** — TCP/IP, DNS, VLANs, Windows, macOS
+- **Backend** — C#, .NET, Node.js, TypeScript, JavaScript
+- **Frontend** — React, Next.js, HTML, CSS, Tailwind
+- **Dados** — PostgreSQL, MySQL, Prisma, Supabase
+- **DevOps & Cloud** — Docker, Git, GitHub Actions, AWS, Railway
+- **Infraestrutura & Redes** — TCP/IP, DNS, VLANs, Windows, macOS
 
 ## Projetos
 
@@ -35,6 +35,7 @@ Plataforma multi-tenant com três painéis conectados em tempo real ao mesmo ban
 - Dashboards com Recharts, totalmente responsivo (mobile-first)
 
 Stack: Next.js 16, TypeScript, Prisma 7, Supabase, Tailwind v4, shadcn/ui
+
 [Acessar produção](https://nivvo-three.vercel.app) · Repositório privado
 
 ### [Resolvia](https://github.com/WilkisonOliveira/resolvia)
@@ -48,6 +49,7 @@ Sistema de gestão de chamados (ticket management) construído com Clean Archite
 - Deploy em produção via Docker + Railway
 
 Stack: C#, .NET, PostgreSQL, Docker, Railway
+
 [Testar a API ao vivo (Swagger)](https://resolvia-production-fe32.up.railway.app/swagger) · [Documentação completa](https://github.com/WilkisonOliveira/resolvia#readme)
 
 ### [WyxSync](https://wyxsync.com)
@@ -60,6 +62,7 @@ Plataforma fitness com integração de Inteligência Artificial, para personaliz
 - Desenvolvimento e manutenção da aplicação de ponta a ponta (full stack)
 
 Stack: React, ASP.NET Core, PostgreSQL, OpenAI, Docker
+
 [Acessar o site](https://wyxsync.com)
 
 ### ProductClientHub
