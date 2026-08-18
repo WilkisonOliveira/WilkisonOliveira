@@ -113,3 +113,5 @@ Hardening · Controle de acesso · Backup e recuperação de dados · Fundamento
 ## Contato
 
 wilkisonoliveira0@gmail.com · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira) · [GitHub](https://github.com/WilkisonOliveira)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=120&section=footer" width="100%"/>
