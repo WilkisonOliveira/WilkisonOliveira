@@ -4,7 +4,7 @@
 
 Juiz de Fora, MG · wilkisonoliveira0@gmail.com · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira)
 
-Aberto a novas oportunidades como desenvolvedor Full Stack 🙂
+Aberto a novas oportunidades como Desenvolvedor/Estagiário 
 
 </div>
 
