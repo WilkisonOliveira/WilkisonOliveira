@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=200&section=header&text=Wilkison%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20-%20C%23%2C%20.NET%2C%20Node.js%2C%20React%2C%20Next.js%2C%20TypeScript%2C%20PostgreSQL%2C%20Docker&descAlignY=50&descSize=13" width="100%"/>
 
-Juiz de Fora, MG · wilkisonoliveira0@gmail.com · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira) · [WhatsApp](https://wa.me/5532991511457)
+Juiz de Fora, MG · wilkisonoliveira0@gmail.com · [Portfólio](https://wilkison.vercel.app) · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira) · [WhatsApp](https://wa.me/5532991511457)
 
 Aberto a novas oportunidades como Desenvolvedor/Estagiário 
 
@@ -62,12 +62,12 @@ Uma plataforma fitness com IA para personalizar treinos e acompanhar progresso. 
 
 - Integração com IA (OpenAI / Groq) para personalização de treinos
 - Login com Google OAuth e pagamentos via Mercado Pago
-- Containerizado com Docker, deploy via Railway
+- Containerizado com Docker, deploy no Fly.io
 - Desenvolvido e mantido por mim, de ponta a ponta
 
 **Stack:** React, ASP.NET Core, PostgreSQL, OpenAI, Docker
 
-[Acessar o site](https://wyxsync.com)
+[Acessar o site](https://wyxsync.com) · [Google Play](https://play.google.com/store/apps/details?id=com.wyxsync.app)
 
 ### ProductClientHub
 
@@ -124,6 +124,6 @@ Hardening · Controle de acesso · Backup e recuperação de dados · Fundamento
 
 Se você chegou até aqui, seja porque tá recrutando, seja porque curtiu algum projeto - me chama, sempre bom trocar ideia:
 
-wilkisonoliveira0@gmail.com · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira) · [GitHub](https://github.com/WilkisonOliveira) · [WhatsApp](https://wa.me/5532991511457)
+wilkisonoliveira0@gmail.com · [Portfólio](https://wilkison.vercel.app) · [LinkedIn](https://www.linkedin.com/in/wilkisonoliveira) · [GitHub](https://github.com/WilkisonOliveira) · [WhatsApp](https://wa.me/5532991511457)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=120&section=footer" width="100%"/>
