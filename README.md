@@ -13,8 +13,7 @@ Aberto a novas oportunidades como Desenvolvedor/Estagiário
 ## Um pouco sobre mim
 
 Passei os últimos 3 anos no Exército Brasileiro trabalhando com Suporte de TI e Infraestrutura - resolvendo problema de hardware, software, sistema operacional e rede no dia a dia. Foi ali que peguei gosto por entender como as coisas funcionam por baixo do capô, e isso acabou me puxando naturalmente para o desenvolvimento.
-
-Hoje estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva (previsão de conclusão em 2027) e migrando de vez para o mundo Full Stack. Já são três projetos próprios em produção - o que eu mais me orgulho é o [Nivvo](https://nivvo-three.vercel.app), um SaaS multi-tenant que já roda com um cliente real. Nas horas vagas, estou sempre voltando para Clean Architecture, Docker e APIs REST, tentando entender cada vez melhor como construir sistemas que aguentam o mundo real.
+Hoje tenho alguns projetos próprios em produção - o que eu mais me orgulho é o [Nivvo](https://nivvo-three.vercel.app), um SaaS multi-tenant que já roda com um cliente real. Nas horas vagas, estou sempre voltando para Clean Architecture, Docker e APIs REST, tentando entender cada vez melhor como construir sistemas que aguentam o mundo real.
 
 ## Com o que eu trabalho
 
